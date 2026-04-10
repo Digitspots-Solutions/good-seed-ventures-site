@@ -1,0 +1,42 @@
+{
+  "businessName": "Good Seed Ventures",
+  "industry": "Petty Trade & POS Services",
+  "tone": "friendly",
+  "tagline": "Your Trusted Neighborhood Store for Daily Essentials and Financial Services",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Good Seed Ventures - Your One-Stop Shop in Nnewi\n\nWelcome to Good Seed Ventures, where convenience meets reliability. From daily essentials to quick cash withdrawals and transfers, we're here to serve you with a smile. Located right in the heart of Okpuno Nnewichi, we're your trusted partner for all your everyday needs.",
+      "imagePrompt": "Vibrant Nigerian neighborhood store exterior in Nnewi, warm afternoon sunlight, colorful shop front with customers entering, modern POS terminal visible through window, welcoming atmosphere, bustling community feel, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "About Good Seed Ventures\n\nGood Seed Ventures is more than just a store – we're a vital part of the Nnewi community. Established to serve the daily needs of our neighbors in Okpuno Nnewichi and surrounding areas, we combine traditional petty trade with modern financial services.\n\nOur commitment is simple: quality products, fair prices, and exceptional service. Whether you need to stock up on household items, grab a quick snack, or perform financial transactions through our reliable POS services, we've got you covered.\n\nWe understand the pulse of our community, and we're dedicated to making your daily life easier and more convenient.",
+      "imagePrompt": "Interior of a well-organized Nigerian convenience store, neatly arranged shelves with various products, friendly Nigerian shopkeeper at counter with POS machine, clean and welcoming environment, natural lighting, community-focused atmosphere, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "What We Offer\n\nPetty Trade\nWe stock a wide range of daily essentials including groceries, beverages, toiletries, household items, and snacks. Quality products at fair prices, always fresh and readily available.\n\nPOS Services\nQuick and secure financial transactions at your fingertips:\n• Cash Withdrawals\n• Fund Transfers\n• Bill Payments\n• Airtime & Data Recharge\n• Account Balance Inquiry\n\nAll transactions are processed swiftly with minimal charges, ensuring you get the best value for your money.\n\nConvenient Operating Hours\nWe're open daily to serve you when you need us most. Pop in anytime for your essentials or financial services.",
+      "imagePrompt": "Split-screen composition showing Nigerian store shelves stocked with colorful products on one side and close-up of hands using modern POS terminal on the other side, professional service delivery, bright clean setting, photorealistic detail",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Find Us at Good Seed Ventures\n\nWe're conveniently located in the heart of Nnewi and ready to serve you. Whether you're stopping by for your daily essentials or need quick POS services, we're here for you.\n\nVisit our store today and experience the Good Seed Ventures difference – where quality meets convenience, and every customer is treated like family.\n\nNo. 82 Bishop Uzodike Road, Okpuno Nnewichi, Nnewi\nNnewi North, Anambra State, Nigeria\n\nCall or WhatsApp: 0803 399 1106\n\nYour neighborhood store, always at your service.",
+      "imagePrompt": "Welcoming storefront of Good Seed Ventures on Bishop Uzodike Road, clear signage, customers approaching entrance, typical Nnewi neighborhood setting, late afternoon golden hour lighting, warm and inviting atmosphere, photorealistic Nigerian street scene",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08033991106",
+    "email": "",
+    "address": "No. 82 Bishop Uzodike Road, Okpuno Nnewichi, Nnewi, Nnewi North, Anambra State, Nigeria",
+    "whatsapp": "https://wa.me/2348033991106"
+  }
+}
